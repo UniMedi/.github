@@ -1,7 +1,10 @@
 ## Proyecto para Unidad Medica 👋
-#Favor Todos los repositorios mantenelos privados.
+# Favor Todos los repositorios mantenelos privados.
 # 1 funcionalidad por repositorio.
-# SE evaluara mas adelante los proyectos y wiki. 
+# Se evaluara mas adelante los proyectos y wiki. 
+# Todo Objetivo se debe lograr antes de la fecha Comprometida.
+
+
 <!--
 
 **Here are some ideas to get you started:**
