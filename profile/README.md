@@ -4,7 +4,10 @@
 # Se evaluara mas adelante los proyectos y wiki. 
 # Todo Objetivo se debe lograr antes de la fecha Comprometida.
 
-
+Team: 	
+elvirateran58@gmail.com
+schmucke05@gmail.com
+rapanuti@gmail.com
 <!--
 
 **Here are some ideas to get you started:**
